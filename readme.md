@@ -1,4 +1,4 @@
-# My Awesome Cart
+# Electronic Shop
 
 This is an e-commerce website where you can buy electronic items.
 
