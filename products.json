@@ -1,0 +1,144 @@
+[
+{
+"product_name": "Acer",
+"category": "Laptop",
+  "subcategory": "Personal",
+  "price": "200000",
+  "desc": "Acer Incorporated is Taiwan's leading exporter and the world's fifth largest computer manufacturer. ... Acer's nearly 30 years of growth results primarily from its business of manufacturing and assembling branded and contract PCs in several locations throughout the world."
+
+},
+
+  {
+"product_name": "Asus",
+"category": "Laptop",
+  "subcategory": "Personal Use",
+  "price": "15000",
+  "desc": "ASUS is a Taiwan-based, multinational computer hardware and consumer electronics company that was established in 1989. Dedicated to creating products for today's and tomorrow's smart life, ASUS is the world's No. 1 motherboard and gaming brand as well as a top-three consumer notebook vendor."
+
+},
+
+  {
+"product_name": "BPL TV",
+"category": "Television",
+  "subcategory": "Entertainment",
+  "price": "30000",
+  "desc": "BPL TV price in India. Compare the price, specifications, reviews of BPL 24 inch, 32 inch, 44 inch, LED, Full HD, LCD TV and buy online or nearby stores."
+
+},
+
+  {
+"product_name": "Dell",
+"category": "Laptop",
+  "subcategory": "Personal Use",
+  "price": "40000",
+  "desc": "Dell Inc., formerly PC's Limited (1984–88) and Dell Computer Corporation (1988–2003), global company that designs, develops, and manufactures personal computers (PCs) and a variety of computer-related products. The company is one of the world's leading suppliers of PCs. Dell is headquartered in Round Rock, Texas."
+
+},
+
+  {
+"product_name": "HP",
+"category": "Laptop",
+  "subcategory": "Personal Use",
+  "price": "18000",
+  "desc": "HP (Hewlett-Packard) is a multinational information technology (IT) company that sells hardware, software and related business services. ... The company's corporate culture is encapsulated in an approach known as the HP Way, a set of values designed to foster innovation, respect for individuals and value for customers."
+
+},
+
+  {
+"product_name": "Huwaei",
+"category": "Mobile",
+  "subcategory": "Entertainment",
+  "price": "30000",
+  "desc": "Huawei is a Chinese information and communications technology (ICT) company that specializes in telecommunications equipment. The company also offers services and consumer electronics including wearables, mobile broadband modems, smartphones, tablets and PCs. ... Huawei was founded by Ren Zhengfei in 1987."
+
+},
+
+  {
+"product_name": "Iphone",
+"category": "Mobile",
+  "subcategory": "Entertainment",
+  "price": "120000",
+  "desc": "The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface. ... While it was not considered the first smartphone, the iPhone has helped drive the global shift to mobile computing among both consumers and businesses."
+
+},
+
+  {
+"product_name": "LAVA",
+"category": "Mobile",
+  "subcategory": "Entertainment",
+  "price": "15000",
+  "desc": "The Lava Agni 5G runs Android 11 and is powered by a 5000mAh. The Lava Agni 5G is a dual SIM (GSM and GSM) mobile that accepts Nano-SIM and Nano-SIM."
+
+},
+
+  {
+"product_name": "Lenovo",
+"category": "Laptop",
+  "subcategory": "Personal Use",
+  "price": "180000",
+  "desc": "Lenovo is one of the world's leading personal technology companies, producing innovative PCs and mobile internet devices. Now, #286 on fortune 500 list, Lenovo is the world's largest PC vendor and fourth largest smartphone company."
+
+},
+
+  {
+"product_name": "LG TV",
+"category": "Television",
+  "subcategory": "Entertainment",
+  "price": "30000",
+  "desc": "If your TV describes everything highlighted on the screen out loud, it means the voice guide is turned on. Here's how to turn this feature off: Press the Settings button on your remote. This will launch your TV's settings menu, which has a list of icons on the left side of your screen."
+
+},
+
+  {
+"product_name": "Nokia",
+"category": "Mobile",
+  "subcategory": "Entertainment",
+  "price": "35000",
+  "desc": "Nokia Corporation is the world's largest manufacturer of mobile phones, serving customers in 130 countries. Nokia is divided into four business groups: Mobile Phones, Multimedia, Enterprise Solutions, and Networks. The Mobile Phones group markets wireless voice and data products in consumer and corporate markets."
+
+},
+
+  {
+"product_name": "Oppo",
+"category": "Mobile",
+  "subcategory": "Entertainment",
+  "price": "28000",
+  "desc": "OPPO Electronics Corp. is an electronics manufacturer based in Guangdong, China. Known for its smartphones, the company also makes MP3 players, portable media players, LCD-TVs, and DVD/Blu-ray players. It was founded in 2004. The company is also a smartphone maker."
+
+},
+
+  {
+"product_name": "Samsung",
+"category": "Mobile",
+  "subcategory": "Entertainment",
+  "price": "20000",
+  "desc": "Samsung, South Korean company that is one of the world's largest producers of electronic devices. Samsung specializes in the production of a wide variety of consumer and industry electronics, including appliances, digital media devices, semiconductors, memory chips, and integrated systems."
+
+},
+
+  {
+"product_name": "Samsung TV",
+"category": "Television",
+  "subcategory": "Entertainment",
+  "price": "32000",
+  "desc": "An Internet-enabled TV set that includes free and paid streaming apps such as YouTube, Netflix, Amazon Prime and Hulu. ... Also called a \"connected TV,\" a smart TV may include a browser for general Web surfing and also be able to execute games and other applications."
+
+},
+
+  {
+"product_name": "Sony TV",
+"category": "Television",
+  "subcategory": "Entertainment",
+  "price": "59000",
+  "desc": "The new Sony smart TV also features 50Hz display and supports screen mirroring too. The Android TV ships with 20W bass reflex speakers and ClearAudio+ tech. It sports a Triluminos display with a specially developed backlight to offer accurate colors. The 4K smart TV also offers support for Motionflow XR."
+
+},
+
+  {
+"product_name": "Videocon TV",
+"category": "Television",
+  "subcategory": "Entertainment",
+  "price": "45000",
+  "desc": "The smart connect HDMI – CEC lets the users to connect and share the data of all the video and audio devices that are connected, through a single cable. This holds the same for the HD set top box, blue ray player, gaming consoles, and various other devices compatible with the TV."
+
+}]
